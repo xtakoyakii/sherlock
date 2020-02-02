@@ -28,6 +28,17 @@ from load_proxies import load_proxies_from_csv, check_proxy_list
 module_name = "Sherlock: Find Usernames Across Social Networks"
 __version__ = "0.10.4"
 
+print("""\
+                                               .----.
+                                              /      |
+ _____  _               _            _        |  _..--'-.
+/ ____|| |__   ___ _ __| | ___   ___| |__    >.`__.''''\;'                                        
+\___  \| '_ \ / - \ '__| |/ _ \ / __| |/ /   / /(     ^`,
+ ___)  | | | |  --/ |  | | (_) | (__|   <    '-`)     =|-.
+|_____/|_| |_|\___|_|  |_|\___/ \___|_|\_\   /` --.'__'   \  .-.
+                                            ,'`-._  `.\    | J /
+                                           /      `--. |   \__/ 
+ver. 0.14.4                                                       """)
 
 global proxy_list
 
