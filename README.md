@@ -1,3 +1,6 @@
+
+>Note: This fork only makes changes to the Fork: "ascii_art". I recreated and (had to) slightly modifiy the ASCII banner from the original repo and included it into the python script of sherlock. I find the ASCII banner art of the original Repo really charming and to my surprise it's not present while using Sherlocks python script. So i added it.
+
 <p align=center>
 
   <img src="https://user-images.githubusercontent.com/27065646/53551960-ae4dff80-3b3a-11e9-9075-cef786c69364.png"/>
